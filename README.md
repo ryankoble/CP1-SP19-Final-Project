@@ -1,4 +1,4 @@
-# MIDI Visualized
+# MIDI-Visualized
 
 Audio-visualization program that creates a tangible experience of interacting with MIDI, visually.
 
