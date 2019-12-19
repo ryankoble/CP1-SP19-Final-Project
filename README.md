@@ -28,7 +28,7 @@ The most difficult part of this project was initially figuring out how to send M
 
 ## Completed Work
 
-https://www.youtube.com/watch?v=O0JHVtEz13I&t=273s
+https://youtu.be/O0JHVtEz13I
 
 ## References and links
 
